@@ -1,0 +1,36 @@
+.red {
+	color: red;
+}
+.blue {
+	color: blue;
+}
+.green {
+	color: green;
+}
+.orange {
+	color: orange;
+}
+.big {
+	font-size: 24px;
+}
+.tiny {
+	font-size: 8px;
+}
+.centered {
+	text-align: center;
+}
+.bold {
+	font-weight: bold;
+}
+.fancyfont {
+	font-family: "Algerian";
+}
+.styledFont {
+	color: green;
+	font-size: 18px;
+}
+#styledImage {
+	border-style: solid;
+	border-color: orange;
+	border-width: 8px;
+}
